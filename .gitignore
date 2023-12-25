@@ -1,0 +1,8 @@
+/.nyc_output
+/coverage
+/jsdoc
+/node_modules
+/test-workspace/tasks/lib
+/test-workspace/test.txt
+/test.js
+npm-debug.log
